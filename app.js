@@ -36,7 +36,9 @@ var op1 = document.getElementById("a")
 var op2 = document.getElementById("b")
 var op3 = document.getElementById("c")
 var op3 = document.getElementById("d")
+
 var btn = document.getElementById("submit")
+var butt = document.querySelector(".button-84")
 var currentQns = 0;
 
 index = 0;
@@ -82,9 +84,7 @@ btn.addEventListener("click", () => {
 
 
 })
-
-
-
+function
 
 
 
